@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-        String filePath = "132443504.txt";
+        String filePath = "132443512.txt";
         String outputFilePath = "transformed-"+filePath;
 
         // Step 1. Read file content.
